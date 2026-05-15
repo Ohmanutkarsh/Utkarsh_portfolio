@@ -38,7 +38,8 @@ const skills = [
 const projects = [
   { title: 'To-Do List App', tagClass: 'tag-beginner', tag: 'Beginner', desc: 'A clean, functional productivity app built to solidify programming fundamentals — data structures, state management, and UI logic.', tags: ['Python', 'Logic', 'UI Basics'] },
   { title: 'Bike Side Stand Alert', tagClass: 'tag-intermediate', tag: 'Intermediate', desc: 'A safety-focused hardware project that detects when a bike\'s side stand is down and alerts the rider. Combines electronics with practical impact.', highlight: 'Appreciated by teachers & faculty', tags: ['DEE Project', 'Electronics', 'Safety Tech'] },
-  { title: 'UniSphere', tagClass: 'tag-progress', tag: 'In Progress', desc: 'A college campus social media platform for student connectivity. Built with a team of 4, focused on authentic community features.', highlight: 'Team of 4 · Student community platform', tags: ['Web Dev', 'Team Project', 'Social Platform'] }
+  { title: 'UniSphere', tagClass: 'tag-progress', tag: 'In Progress', desc: 'A college campus social media platform for student connectivity. Built with a team of 4, focused on authentic community features.', highlight: 'Team of 4 · Student community platform', tags: ['Web Dev', 'Team Project', 'Social Platform'] },
+  { title: 'Tricycle EV Bike', tagClass: 'tag-intermediate', tag: 'Completed', desc: 'A robust, cost-effective electric tricycle engineered by an 11-member team. Designed specifically for efficient local transport and resilience in tough conditions, showcasing practical mechanical and electrical integration on a limited budget.', highlight: 'Team of 11 · Cost-Effective EV', tags: ['Hardware', 'EV Tech', 'Team Project'] }
 ];
 
 const achievements = [
